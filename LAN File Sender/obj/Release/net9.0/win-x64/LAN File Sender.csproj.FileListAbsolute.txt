@@ -1,0 +1,14 @@
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\bin\Release\net9.0\win-x64\LAN File Sender.exe
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\bin\Release\net9.0\win-x64\LAN File Sender.deps.json
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\bin\Release\net9.0\win-x64\LAN File Sender.runtimeconfig.json
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\bin\Release\net9.0\win-x64\LAN File Sender.dll
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\bin\Release\net9.0\win-x64\LAN File Sender.pdb
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\obj\Release\net9.0\win-x64\LAN File Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\obj\Release\net9.0\win-x64\LAN File Sender.AssemblyInfoInputs.cache
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\obj\Release\net9.0\win-x64\LAN File Sender.AssemblyInfo.cs
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\obj\Release\net9.0\win-x64\LAN File Sender.csproj.CoreCompileInputs.cache
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\obj\Release\net9.0\win-x64\LAN File Sender.dll
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\obj\Release\net9.0\win-x64\refint\LAN File Sender.dll
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\obj\Release\net9.0\win-x64\LAN File Sender.pdb
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\obj\Release\net9.0\win-x64\LAN File Sender.genruntimeconfig.cache
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\obj\Release\net9.0\win-x64\ref\LAN File Sender.dll

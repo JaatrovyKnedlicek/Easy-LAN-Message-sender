@@ -1,0 +1,5 @@
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\bin\Release\net9.0\win-x64\publish\LAN File Sender.exe
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\bin\Release\net9.0\win-x64\publish\LAN File Sender.dll
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\bin\Release\net9.0\win-x64\publish\LAN File Sender.deps.json
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\bin\Release\net9.0\win-x64\publish\LAN File Sender.runtimeconfig.json
+C:\Users\Janko\Desktop\EasyLAN\LAN File Sender\bin\Release\net9.0\win-x64\publish\LAN File Sender.pdb
