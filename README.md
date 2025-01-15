@@ -34,4 +34,3 @@ E-Mail: [jankorepka888@gmail.com](mailto:jankorepka888@gmail.com)
  - Adding encryption
  - Adding customizability
  - Adding GUI
- - Make this program also on Linux
