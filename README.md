@@ -12,6 +12,7 @@ I'm still working on the project. This is a pre-release alpha version with only 
 **Downloading the program** then download the program from releases. Extract the content of the `linux-x64.zip`.
 ## Use
 **Windows** You can run the program by opening `LAN File Sender.exe` from the zip file you downloaded. For communication between computers, programs must be run on both computers. I recommend using port 5000.
+
 **Linux** You can run the program by running `LAN File Sender` using a terminal. For communication between computers, programs must be run on both computers. I recommend using port 5000.
 ### Functions explained:
 
