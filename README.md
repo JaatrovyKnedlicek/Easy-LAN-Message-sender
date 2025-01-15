@@ -26,7 +26,7 @@ E-Mail: [jankorepka888@gmail.com](mailto:jankorepka888@gmail.com)
 
 ## Screenshots:
 Screenshot of the main menu:
-![Main menu screenshot on Windows](https://github.com/JaatrovyKnedlicek/Easy-LAN-Message-sender/blob/main/screenshots/image.png?raw=true)
+
 ## Future plans:
 
  - Add chat
